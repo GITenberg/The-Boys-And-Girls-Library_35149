@@ -1,0 +1,32 @@
+_repo: The-Boys-And-Girls-Library_35149
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35149-h/images/cover.jpg
+creator:
+  editor:
+    agent_name: Goodrich, Samuel G. (Samuel Griswold)
+    aliases:
+    - Goodrich, S. G. (Samuel Griswold)
+    - Goodrich, Samuel Griswold
+    - Parley, Peter
+    birthdate: 1793
+    deathdate: 1860
+    gutenberg_agent_id: '4027'
+    url: http://www.gutenberg.org/2009/agents/4027
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Griswold_Goodrich
+description: ''
+gutenberg_issued: '2011-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35149'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+title: "The Boys' And Girls' Library\r\nContaining a Variety of Useful and Instructive\
+  \ Reading, Selected from Eminent Writers for Youth"
+url: http://www.gutenberg.org/ebooks/35149
